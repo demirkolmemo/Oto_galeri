@@ -1,0 +1,43 @@
+D:\Otogaleri\Oto galeri\Oto galeri\bin\Debug\Oto galeri.exe.config
+D:\Otogaleri\Oto galeri\Oto galeri\bin\Debug\Oto galeri.exe
+D:\Otogaleri\Oto galeri\Oto galeri\bin\Debug\Oto galeri.pdb
+D:\Otogaleri\Oto galeri\Oto galeri\bin\Debug\Guna.UI2.dll
+D:\Otogaleri\Oto galeri\Oto galeri\obj\Debug\Oto galeri.csproj.AssemblyReference.cache
+D:\Otogaleri\Oto galeri\Oto galeri\obj\Debug\Oto galeri.csproj.SuggestedBindingRedirects.cache
+D:\Otogaleri\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.Form1.resources
+D:\Otogaleri\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.Properties.Resources.resources
+D:\Otogaleri\Oto galeri\Oto galeri\obj\Debug\Oto galeri.csproj.GenerateResource.cache
+D:\Otogaleri\Oto galeri\Oto galeri\obj\Debug\Oto galeri.csproj.CoreCompileInputs.cache
+D:\Otogaleri\Oto galeri\Oto galeri\obj\Debug\Oto galeri.csproj.CopyComplete
+D:\Otogaleri\Oto galeri\Oto galeri\obj\Debug\Oto galeri.exe
+D:\Otogaleri\Oto galeri\Oto galeri\obj\Debug\Oto galeri.pdb
+D:\Otogaleri\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.Form2.resources
+D:\Otogaleri\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.Form3.resources
+D:\Otogaleri\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.Form4.resources
+D:\Otogaleri\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.Form5.resources
+D:\Otogaleri\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.Form6.resources
+D:\Otogaleri\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.AdminForm.resources
+D:\Otogaleri\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.kayit.resources
+D:\Otogaleri\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.kayit1.resources
+D:\Otogaleri\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.UserControl2.resources
+D:\Oto galeri\Oto galeri\bin\Debug\Oto galeri.exe.config
+D:\Oto galeri\Oto galeri\bin\Debug\Oto galeri.exe
+D:\Oto galeri\Oto galeri\bin\Debug\Oto galeri.pdb
+D:\Oto galeri\Oto galeri\bin\Debug\Guna.UI2.dll
+D:\Oto galeri\Oto galeri\obj\Debug\Oto galeri.csproj.AssemblyReference.cache
+D:\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.AdminForm.resources
+D:\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.Form1.resources
+D:\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.Form2.resources
+D:\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.Form3.resources
+D:\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.Form4.resources
+D:\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.Form5.resources
+D:\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.Form6.resources
+D:\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.kayit.resources
+D:\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.Properties.Resources.resources
+D:\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.kayit1.resources
+D:\Oto galeri\Oto galeri\obj\Debug\Oto_galeri.UserControl2.resources
+D:\Oto galeri\Oto galeri\obj\Debug\Oto galeri.csproj.GenerateResource.cache
+D:\Oto galeri\Oto galeri\obj\Debug\Oto galeri.csproj.CoreCompileInputs.cache
+D:\Oto galeri\Oto galeri\obj\Debug\Oto galeri.csproj.CopyComplete
+D:\Oto galeri\Oto galeri\obj\Debug\Oto galeri.exe
+D:\Oto galeri\Oto galeri\obj\Debug\Oto galeri.pdb
